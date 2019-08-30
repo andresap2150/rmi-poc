@@ -1,0 +1,1 @@
+javac ../src/com/andres/interfaces/MessagerService.java ../src/com/andres/rmiserver/RMIServer.java ../src/com/andres/rmiclient/ClientOperation.java
